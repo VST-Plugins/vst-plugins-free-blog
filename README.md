@@ -1,2 +1,2 @@
 # blog-jogos-do-mario-bros
-Fan blog sobre os Jogos do Mario Bros
+Repositório principal com os temas e conteúdo do fan blog sobre os <a href="https://jogosdomariosuperbros.blogspot.com">Jogos do Mario Bros</a>. Formato XML interno do Blogger.
